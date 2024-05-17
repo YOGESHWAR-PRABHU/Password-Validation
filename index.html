@@ -8,10 +8,10 @@
     <title>Password Validation</title>
 </head>
 <body>
-    <form action="f1" onsubmit="return matchpassword()">
-    <input type="password" name="password" placeholder="Enter your Password">
-    <input type="password" name="password" placeholder="Confirm your Password">
-    <input type="submit">
+    <form id="passwordForm" onsubmit="return matchpassword()">
+        <input type="password" name="password" placeholder="Enter your Password">
+        <input type="password" name="password2" placeholder="Confirm your Password">
+        <input type="submit" value="Submit">
     </form>
 
     <script src="script.js"></script>
