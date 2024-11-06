@@ -1,6 +1,6 @@
 **Welcome to My GitHub Project**
 
-**Mini-Project:- 
+**Project Topic:- 
 Password Validation**
 
 **Tech Stack:-**
